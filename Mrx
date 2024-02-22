@@ -1,0 +1,9 @@
+rm -rf
+
+git clone https://github.com/Mrmaysam/Mrrx.git
+
+cd Mrrx
+
+ls
+
+python Gexx.pyc
